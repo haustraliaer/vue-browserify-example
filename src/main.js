@@ -1,6 +1,6 @@
 require('insert-css')(require('./app.css'))
 
-var Vue = require('vue')
+var Vue = require('vue');
 
 new Vue({
     el: '#app',
